@@ -2,7 +2,7 @@
 ## Website Creation At It's Best.
 ![Banner](https://dangoweb.ga/banner.gif)
 *At Dango Web Solutions we create stunning websites from templates that are extremely customizable and comes with tons of cool addons!*
-- 📫 You can reach us at [admin@dangoweb.ga](mailto:admin@dangoweb.ga) or on our [Discord server](https://dangoweb.ga/discord?from=github).
+- 📫 You can reach us at [admin@dangoweb.ga](mailto:admin@dangoweb.ga), on our [Discord server](https://dangoweb.ga/discord?from=github), or on our [Guilded server](https://dangoweb.ga/guilded?from=github).
 
 ### Products:
 - **Website Creation:** We'll create an amazing website for you.
