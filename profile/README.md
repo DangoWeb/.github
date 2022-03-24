@@ -8,8 +8,8 @@
 - **Website Creation:** We'll create an amazing website for you.
 - **Web Hosting:** We'll host your website, shop, or blog.
 - **Discord Bot Creation:** We'll create a cool bot for your server.
-- **Discord Bot Hosting:** We'll host your bot on fast webservers.
-- **Minecraft Server Hosting:** We'll create a MC Server for you.
+- ~**Discord Bot Hosting:** We'll host your bot on fast webservers.~
+- ~**Minecraft Server Hosting:** We'll create a MC Server for you.~
 - **Dedicated CDN:** Boost your Web Hosting with CDN.
 
 ### Languages we use:
