@@ -1,8 +1,8 @@
-# <a href="https://dangoweb.ga/?from=github"><img src="https://gitlab.com/fnageer3/fnageerml-site-nav/-/raw/master/public/wave.gif" height="25px" /></a> Welcome to Dango Web Solutions! <a href="https://dangoweb.ga/?from=github"><img src="https://dangoweb.ga/favicon.ico" height="25px" /></a>
+# <a href="https://dangoweb.xyz/?from=github"><img src="https://gitlab.com/fnageer3/fnageerml-site-nav/-/raw/master/public/wave.gif" height="25px" /></a> Welcome to Dango Web Solutions! <a href="https://dangoweb.xyz/?from=github"><img src="https://dangoweb.xyz/favicon.ico" height="25px" /></a>
 ## Website Creation At It's Best.
-![Banner](https://dangoweb.ga/banner.gif)
+![Banner](https://dangoweb.xyz/banner.gif)
 *At Dango Web Solutions we create stunning websites from templates that are extremely customizable and comes with tons of cool addons!*
-- 📫 You can reach us at [admin@dangoweb.ga](mailto:admin@dangoweb.ga), on our [Discord server](https://dangoweb.ga/discord?from=github), or on our [Guilded server](https://dangoweb.ga/guilded?from=github).
+- 📫 You can reach us at [admin@dangoweb.xyz](mailto:admin@dangoweb.xyz), on our [Discord server](https://dangoweb.xyz/discord?from=github), or on our [Guilded server](https://dangoweb.xyz/guilded?from=github).
 
 ### Products:
 - **Website Creation:** We'll create an amazing website for you.
@@ -21,10 +21,10 @@
 - <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
 
 ### Websites:
-- <a href="https://dangoweb.ga/?from=github">Home</a>
-- <a href="https://docs.dangoweb.ga/?from=github">Docs</a>
-- <a href="https://portal.dangoweb.ga/?from=github">Portal</a>
-- <a href="https://bots.dangoweb.ga/?from=github">Bots</a>
-- <a href="https://dangoweb.ga/legal?from=github">Legal</a>
+- <a href="https://dangoweb.xyz/?from=github">Home</a>
+- <a href="https://docs.dangoweb.xyz/?from=github">Docs</a>
+- <a href="https://portal.dangoweb.xyz/?from=github">Portal</a>
+- <a href="https://bots.dangoweb.xyz/?from=github">Bots</a>
+- <a href="https://dangoweb.xyz/legal?from=github">Legal</a>
 
-#### *Our [Source Code Policy](https://dangoweb.ga/legal?from=github) applies to all code in this Organization (DangoWeb).*
+#### *Our [Source Code Policy](https://dangoweb.xyz/legal?from=github) applies to all code in this Organization (DangoWeb).*
