@@ -1,5 +1,5 @@
-# <a href="https://dangoweb.xyz/?from=github"><img src="https://gitlab.com/fnageer3/fnageerml-site-nav/-/raw/master/public/wave.gif" height="25px" width="25px" /></a> Welcome to Dango Web Solutions! <a href="https://dangoweb.com/?from=github"><img src="https://dangoweb.com/favicon.ico" height="25px" /></a>
-## Website Creation At It's Best.
+# <a href="https://dangoweb.com/?from=github"><img src="https://faisaln.com/wave.gif" height="25px" width="25px" /></a> Welcome to Dango Web Solutions! <a href="https://dangoweb.com/?from=github"><img src="https://dangoweb.com/favicon.ico" height="25px" /></a>
+## More than Web Hosting.
 ![Banner](https://dangoweb.com/banner.gif)
 *At Dango Web Solutions we create stunning websites from templates that are extremely customizable and comes with tons of cool addons!*
 - 📫 You can reach us at [admin@dangoweb.com](mailto:admin@dangoweb.com), on our [Discord server](https://dangoweb.com/discord?from=github), or on our [Guilded server](https://dangoweb.com/guilded?from=github).
