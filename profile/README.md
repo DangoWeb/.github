@@ -1,4 +1,7 @@
 # Welcome to Dango Web Solutions! <a href="https://dangoweb.com/?from=github"><img src="https://dangoweb.com/favicon.ico" height="25px" /></a>
+
+[![Dango Web Solutions Banner](https://dangoweb.com/banner.png)](https://dangoweb.com/?from=github)
+
 ### Free and discounted web services for startups, students, and education
 
 - 📫 You can reach us at [admin@dangoweb.com](mailto:admin@dangoweb.com), on our [Discord server](https://dangoweb.com/discord?from=github), or on our other social media.
@@ -13,7 +16,7 @@
 - **CMS:** Manage your DWS-made website's content from a easy-to-use dashboard - no reloads.
 - **Domains:** Register domain names with us, with automatic connection to web hosting.*
 
-*Programs running through our various partnerships.
+*Programs running through our various partnerships, some of which may not be active currently.
 
 ### Languages we use:
 - <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
